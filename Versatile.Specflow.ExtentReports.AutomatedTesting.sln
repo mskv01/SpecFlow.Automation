@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Versatile.Specflow.ExtentReports.UIAutomatedTesting", "Versatile.Specflow.ExtentReports.UIAutomatedTesting\Versatile.Specflow.ExtentReports.UIAutomatedTesting.csproj", "{9F037523-DBDA-4F3F-8CD6-3092450989E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versatile.Specflow.ExtentReports.CryptoEngine", "Versatile.Specflow.ExtentReports.CryptoEngine\Versatile.Specflow.ExtentReports.CryptoEngine.csproj", "{03F565EF-1BFD-4B25-9874-D8FA8301E0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versatile.Specflow.ExtentReports.AzureTestAssociation", "Versatile.Specflow.ExtentReports.AzureTestAssociation\Versatile.Specflow.ExtentReports.AzureTestAssociation.csproj", "{16C8C940-5418-4DD4-9020-B4944EF653D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versatile.Specflow.ExtentReports.AzureTestParams", "Versatile.Specflow.ExtentReports.AzureTestParams\Versatile.Specflow.ExtentReports.AzureTestParams.csproj", "{B0E7A431-99B4-4967-B864-B25C2C289513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versatile.Specflow.ExtentReports.ApiAutomatedTesting", "Versatile.Specflow.ExtentReports.ApiAutomatedTesting\Versatile.Specflow.ExtentReports.ApiAutomatedTesting.csproj", "{9BDC9579-7F74-4A32-973E-C374BF8D0DFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F037523-DBDA-4F3F-8CD6-3092450989E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F037523-DBDA-4F3F-8CD6-3092450989E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F037523-DBDA-4F3F-8CD6-3092450989E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F037523-DBDA-4F3F-8CD6-3092450989E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F565EF-1BFD-4B25-9874-D8FA8301E0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F565EF-1BFD-4B25-9874-D8FA8301E0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F565EF-1BFD-4B25-9874-D8FA8301E0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F565EF-1BFD-4B25-9874-D8FA8301E0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C8C940-5418-4DD4-9020-B4944EF653D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C8C940-5418-4DD4-9020-B4944EF653D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C8C940-5418-4DD4-9020-B4944EF653D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C8C940-5418-4DD4-9020-B4944EF653D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E7A431-99B4-4967-B864-B25C2C289513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E7A431-99B4-4967-B864-B25C2C289513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E7A431-99B4-4967-B864-B25C2C289513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E7A431-99B4-4967-B864-B25C2C289513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDC9579-7F74-4A32-973E-C374BF8D0DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDC9579-7F74-4A32-973E-C374BF8D0DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDC9579-7F74-4A32-973E-C374BF8D0DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDC9579-7F74-4A32-973E-C374BF8D0DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E19564-94EB-49B8-A3FD-0B7789728C70}
+	EndGlobalSection
+EndGlobal
